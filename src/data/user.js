@@ -7,12 +7,12 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		twitter: "https://twitter.com/mujahidanwar175",
+		github: "https://github.com/mujahid141",
+		linkedin: "https://linkedin.com/in/mujahidanwar",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		facebook: "https://www.facebook.com/mujahid.anwar.3760",
 	},
 
 	homepage: {
