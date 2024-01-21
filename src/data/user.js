@@ -10,7 +10,7 @@ const INFO = {
 		twitter: "https://twitter.com/mujahidanwar175",
 		github: "https://github.com/mujahid141",
 		linkedin: "https://linkedin.com/in/mujahidanwar",
-		instagram: "https://instagram.com/",
+		instagram: "https://instagram.com/_mujahid_anwar13",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://www.facebook.com/mujahid.anwar.3760",
 	},
